@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ashley
-- 👀 I’m interested in programming
+- 👀 I’m interested in robotics & AI/ML
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on creating more valuable projects .
-- 📫 How to reach me?My email address is ashleyandile54@gmail.com
+- 💞️ I’m looking to collaborate on creating more valuable projects.
 - 😄 Pronouns:She/her
   
 
